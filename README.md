@@ -1,12 +1,28 @@
-# React + Vite
+# 🎬 Cineflex - Sistema de Compra de Ingressos de Cinema
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
 
-Currently, two official plugins are available:
+Este projeto é um **sistema completo de compra de ingressos para um cinema**, permitindo que os usuários:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Visualizem filmes em cartaz e seus horários.
+* Escolham assentos em uma sala virtual.
+* Insiram dados do comprador e finalizem a reserva.
 
-## Expanding the ESLint configuration
+A aplicação é **mobile-first**, garantindo uma experiência otimizada e responsiva em diversos dispositivos móveis, e se integra com uma API para gerenciar dados de filmes e assentos em tempo real.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🔗 Acesse o Projeto
+
+Você pode interagir com a aplicação deployada aqui:
+
+👉 **https://cineflex-react-eta.vercel.app/**
+
+
+## 🛠️ Tecnologias Usadas
+
+* **React:** Para a construção da interface do usuário.
+* **Styled-Components:** Para estilização.
+* **React Router DOM:** Para gerenciamento de rotas.
+* **Axios:** Para comunicação com a API.
+* **Vite:** Ferramenta de build.
+* **Vercel:** Para o deploy da aplicação.
