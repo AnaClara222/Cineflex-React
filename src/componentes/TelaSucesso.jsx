@@ -1,4 +1,3 @@
-import React from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import styled from "styled-components";
 
@@ -119,7 +118,7 @@ const BlocoInfo = styled.div`
 const TituloInfo = styled.h2`
   font-size: 18px;
   font-weight: 700;
-  font-family: "Roboto", sans-serif;
+  font-family: "Sarala", sans-serif;
   color: #EE897F;
   margin-bottom: 5px;
 `;
@@ -127,7 +126,7 @@ const TituloInfo = styled.h2`
 const TextoInfo = styled.p`
   font-size: 16px;
   font-weight: 400;
-  font-family: "Roboto", sans-serif;
+  font-family: "Sarala", sans-serif;
   color: #ffffff;
   margin-bottom: 10px;
 `;
